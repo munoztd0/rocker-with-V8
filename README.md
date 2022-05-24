@@ -1,0 +1,2 @@
+# rocker-with-V8
+The rocker-with-V8 Dockerfiles from the Rocker Project provides basic building Debian ( r-base) upon which other containers can be built. They include the libv8-dev &amp; libcurl4-openssl-dev packages permitting R to install critical dependencies (V8 &amp; curl) for modern package (such as Rstan, brms, echarts4r) .  See the source directories for more information.  Documentation is being added at the Wiki. Please feel free to post issues
